@@ -1,0 +1,7 @@
+F:\C#\Baitap_C#\Mang\ViTri_LonNhat\ViTri_LonNhat\bin\Debug\ViTri_LonNhat.exe.config
+F:\C#\Baitap_C#\Mang\ViTri_LonNhat\ViTri_LonNhat\bin\Debug\ViTri_LonNhat.exe
+F:\C#\Baitap_C#\Mang\ViTri_LonNhat\ViTri_LonNhat\bin\Debug\ViTri_LonNhat.pdb
+F:\C#\Baitap_C#\Mang\ViTri_LonNhat\ViTri_LonNhat\obj\Debug\ViTri_LonNhat.csprojAssemblyReference.cache
+F:\C#\Baitap_C#\Mang\ViTri_LonNhat\ViTri_LonNhat\obj\Debug\ViTri_LonNhat.csproj.CoreCompileInputs.cache
+F:\C#\Baitap_C#\Mang\ViTri_LonNhat\ViTri_LonNhat\obj\Debug\ViTri_LonNhat.exe
+F:\C#\Baitap_C#\Mang\ViTri_LonNhat\ViTri_LonNhat\obj\Debug\ViTri_LonNhat.pdb
