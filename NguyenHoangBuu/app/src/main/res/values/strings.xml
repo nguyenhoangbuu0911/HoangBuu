@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NguyenHoangBuu</string>
+    <string name="Main_Login">Login</string>
+    <string name="Main_Password">Password</string>
+    <string name="Main_Username">Username</string>
+</resources>
